@@ -1,0 +1,16 @@
+{
+    "code": "test",
+    "type": "I",
+    "is_global": true,
+    "active": true,
+    "attributes": [
+        {
+            "name": "type",
+            "value": "text/css"
+        },
+        {
+            "name": "media",
+            "value": "all"
+        }
+    ]
+}

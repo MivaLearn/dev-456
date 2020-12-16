@@ -1,0 +1,57 @@
+{
+    "descrip": "This is the side navigation for all static content pages.",
+    "items": [
+        {
+            "active": 1,
+            "id": "6eb04569465294d5828315320068ca3d",
+            "link": "<a href=\"https://mivalearn.mivamerchantdev.com/about-us.html\" target=\"_self\">About Us</a>",
+            "link_dest": "ABUS",
+            "link_targ": "_self",
+            "link_type": "G",
+            "name": "About Us",
+            "url": "https://mivalearn.mivamerchantdev.com/about-us.html"
+        },
+        {
+            "active": 1,
+            "id": "0860b99058fc621c3b78617b74b3575d",
+            "link": "<a href=\"https://mivalearn.mivamerchantdev.com/contact-us.html\" target=\"_self\">Contact Us</a>",
+            "link_dest": "CTUS",
+            "link_targ": "_self",
+            "link_type": "G",
+            "name": "Contact Us",
+            "url": "https://mivalearn.mivamerchantdev.com/contact-us.html"
+        },
+        {
+            "active": 1,
+            "id": "7a15fed718678b2638bd7ef6a0bc79d5",
+            "link": "<a href=\"https://mivalearn.mivamerchantdev.com/frequently-asked-questions.html\" target=\"_self\">Frequently Asked Questions</a>",
+            "link_dest": "FAQS",
+            "link_targ": "_self",
+            "link_type": "G",
+            "name": "Frequently Asked Questions",
+            "url": "https://mivalearn.mivamerchantdev.com/frequently-asked-questions.html"
+        },
+        {
+            "active": 1,
+            "id": "0f03a46e03373827e662846642f3a4e7",
+            "link": "<a href=\"https://mivalearn.mivamerchantdev.com/privacy-policy.html\" target=\"_self\">Privacy Policy</a>",
+            "link_dest": "PRPO",
+            "link_targ": "_self",
+            "link_type": "G",
+            "name": "Privacy Policy",
+            "url": "https://mivalearn.mivamerchantdev.com/privacy-policy.html"
+        },
+        {
+            "active": 1,
+            "id": "d485902b338790fa1b51a65e8e714f52",
+            "link": "<a href=\"https://mivalearn.mivamerchantdev.com/shipping-and-return-policy.html\" target=\"_self\">Shipping &amp; Return Policy</a>",
+            "link_dest": "SARP",
+            "link_targ": "_self",
+            "link_type": "G",
+            "name": "Shipping & Return Policy",
+            "url": "https://mivalearn.mivamerchantdev.com/shipping-and-return-policy.html"
+        }
+    ],
+    "layout": "S",
+    "name": "Static Page Navigation"
+}

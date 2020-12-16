@@ -1,0 +1,36 @@
+{
+    "items": [
+        {
+            "active": 1,
+            "id": "9afb226cc59cd3799c0e824a90450c3d",
+            "link": "<a href=\"https://mivalearn.mivamerchantdev.com/about-us.html\" target=\"_self\">About Us</a>",
+            "link_dest": "ABUS",
+            "link_targ": "_self",
+            "link_type": "G",
+            "name": "About Us",
+            "url": "https://mivalearn.mivamerchantdev.com/about-us.html"
+        },
+        {
+            "active": 1,
+            "id": "3945c11a99f6d8d88c1e3afb72046ce0",
+            "link": "<a href=\"https://mivalearn.mivamerchantdev.com/contact-us.html\" target=\"_self\">Contact Us</a>",
+            "link_dest": "CTUS",
+            "link_targ": "_self",
+            "link_type": "G",
+            "name": "Contact Us",
+            "url": "https://mivalearn.mivamerchantdev.com/contact-us.html"
+        },
+        {
+            "active": 1,
+            "id": "f692e6e22198ad0c2facddb73de59642",
+            "link": "<a href=\"https://mivalearn.mivamerchantdev.com/frequently-asked-questions.html\" target=\"_self\">Frequent Questions</a>",
+            "link_dest": "FAQS",
+            "link_targ": "_self",
+            "link_type": "G",
+            "name": "Frequent Questions",
+            "url": "https://mivalearn.mivamerchantdev.com/frequently-asked-questions.html"
+        }
+    ],
+    "layout": "S",
+    "name": "Support Pages Navigation"
+}

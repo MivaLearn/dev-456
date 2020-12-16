@@ -1,0 +1,120 @@
+{
+    "items": [
+        {
+            "active": 1,
+            "id": "cd9fbd1365a32baeb50036283cb24bd2",
+            "link": "<a href=\"https://mivalearn.mivamerchantdev.com/our-catalog.html\" target=\"_self\">Shop All</a>",
+            "link_dest": "CTLG",
+            "link_targ": "_self",
+            "link_type": "G",
+            "name": "Shop All",
+            "url": "https://mivalearn.mivamerchantdev.com/our-catalog.html"
+        },
+        {
+            "active": 1,
+            "id": "08f954523e4cac36e5d82c158e3f537b",
+            "items": [
+                {
+                    "active": 1,
+                    "id": "01ba3b57a735277071144929246f2cf4",
+                    "link": "<a href=\"https://mivalearn.mivamerchantdev.com/sub-category-1.html\" target=\"_self\">Subcategory 1</a>",
+                    "link_dest": "sub-cat-1",
+                    "link_targ": "_self",
+                    "link_type": "C",
+                    "name": "Subcategory 1",
+                    "url": "https://mivalearn.mivamerchantdev.com/sub-category-1.html"
+                },
+                {
+                    "active": 1,
+                    "id": "fa157bbdae3f1f15914c86101d93f6fb",
+                    "link": "<a href=\"https://mivalearn.mivamerchantdev.com/sub-category-2.html\" target=\"_self\">Subcategory 2</a>",
+                    "link_dest": "sub-cat-2",
+                    "link_targ": "_self",
+                    "link_type": "C",
+                    "name": "Subcategory 2",
+                    "url": "https://mivalearn.mivamerchantdev.com/sub-category-2.html"
+                }
+            ],
+            "link": "<a href=\"https://mivalearn.mivamerchantdev.com/category-1.html\" target=\"_self\">Category 1</a>",
+            "link_dest": "category_01",
+            "link_targ": "_self",
+            "link_type": "C",
+            "name": "Category 1",
+            "url": "https://mivalearn.mivamerchantdev.com/category-1.html"
+        },
+        {
+            "active": 1,
+            "id": "84023e55f94bcb8465161c11b24c781a",
+            "items": [
+                {
+                    "active": 1,
+                    "id": "e13f400870572275d16f07572aaf3110",
+                    "link": "<a href=\"https://mivalearn.mivamerchantdev.com/sub-category-3.html\" target=\"_self\">Subcategory 3</a>",
+                    "link_dest": "sub-cat-3",
+                    "link_targ": "_self",
+                    "link_type": "C",
+                    "name": "Subcategory 3",
+                    "url": "https://mivalearn.mivamerchantdev.com/sub-category-3.html"
+                },
+                {
+                    "active": 1,
+                    "id": "ba7b07f18dab4c3dc3976693a2f3ff2b",
+                    "link": "<a href=\"https://mivalearn.mivamerchantdev.com/sub-category-4.html\" target=\"_self\">Subcategory 4</a>",
+                    "link_dest": "Sub-cat-4",
+                    "link_targ": "_self",
+                    "link_type": "C",
+                    "name": "Subcategory 4",
+                    "url": "https://mivalearn.mivamerchantdev.com/sub-category-4.html"
+                }
+            ],
+            "link": "<a href=\"https://mivalearn.mivamerchantdev.com/category-2.html\" target=\"_self\">Category 2</a>",
+            "link_dest": "category_02",
+            "link_targ": "_self",
+            "link_type": "C",
+            "name": "Category 2",
+            "url": "https://mivalearn.mivamerchantdev.com/category-2.html"
+        },
+        {
+            "active": 1,
+            "id": "0309bdc73561f43a360b22931dead290",
+            "link": "<a href=\"https://mivalearn.mivamerchantdev.com/category-3.html\" target=\"_self\">Category 3</a>",
+            "link_dest": "category_03",
+            "link_targ": "_self",
+            "link_type": "C",
+            "name": "Category 3",
+            "url": "https://mivalearn.mivamerchantdev.com/category-3.html"
+        },
+        {
+            "active": 1,
+            "id": "711bc7530c28455c2a9da289e5804fdf",
+            "link": "<a href=\"https://mivalearn.mivamerchantdev.com/category-4.html\" target=\"_self\">Category 4</a>",
+            "link_dest": "category_04",
+            "link_targ": "_self",
+            "link_type": "C",
+            "name": "Category 4",
+            "url": "https://mivalearn.mivamerchantdev.com/category-4.html"
+        },
+        {
+            "active": 1,
+            "id": "e099c6ca571e6c58fc2a53439c81603d",
+            "link": "<a href=\"https://mivalearn.mivamerchantdev.com/sale.html\" target=\"_self\">Sale</a>",
+            "link_dest": "sale",
+            "link_targ": "_self",
+            "link_type": "C",
+            "name": "Sale",
+            "url": "https://mivalearn.mivamerchantdev.com/sale.html"
+        },
+        {
+            "active": 1,
+            "id": "3259d6505e4b9f3f3ba022c689dcb679",
+            "link": "<a href=\"https://mivalearn.mivamerchantdev.com/featured-products.html\" target=\"_self\">Featured Products</a>",
+            "link_dest": "featured",
+            "link_targ": "_self",
+            "link_type": "C",
+            "name": "Featured Products",
+            "url": "https://mivalearn.mivamerchantdev.com/featured-products.html"
+        }
+    ],
+    "layout": "H",
+    "name": "Primary Site Navigation Bar"
+}

@@ -1,0 +1,26 @@
+{
+    "items": [
+        {
+            "active": 1,
+            "id": "c70040af6fe8d8a6ac81bc7d805035a7",
+            "link": "<a href=\"https://mivalearn.mivamerchantdev.com/privacy-policy.html\" target=\"_self\">Privacy Statement</a>",
+            "link_dest": "PRPO",
+            "link_targ": "_self",
+            "link_type": "G",
+            "name": "Privacy Statement",
+            "url": "https://mivalearn.mivamerchantdev.com/privacy-policy.html"
+        },
+        {
+            "active": 1,
+            "id": "fea632ce6cafec90bc2f14fe0596d1bd",
+            "link": "<a href=\"https://mivalearn.mivamerchantdev.com/shipping-and-return-policy.html\" target=\"_self\">Shipping and Return Policies</a>",
+            "link_dest": "SARP",
+            "link_targ": "_self",
+            "link_type": "G",
+            "name": "Shipping and Return Policies",
+            "url": "https://mivalearn.mivamerchantdev.com/shipping-and-return-policy.html"
+        }
+    ],
+    "layout": "S",
+    "name": "Global Footer Disclaimer Navigation"
+}
